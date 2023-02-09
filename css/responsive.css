@@ -1,0 +1,237 @@
+@media (min-width: 1200px) and (max-width: 1399px){
+  .informationShop .socialicon {
+    padding-left: 145px;
+  
+}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #banner .banner_slider .banner_cnt h1 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    color: #1d1d1d;
+    transition-delay: 0.4s;
+  }
+
+  #banner .slick-dots {
+    position: absolute;
+    bottom: 15%;
+    left: 28px;
+  }
+  #aetor_shop .aetor_info > * {
+    margin: 30px;
+  }
+  #aetor_shop .aetor_info h1 {
+   margin-top: 45px;
+}
+  #aetor_shop .aetor_info .button {
+   
+    margin-top: -10px;
+}
+
+#aetor_shop .aetorPic img{
+  padding-top: 100px;
+} 
+#aetor_shop .aetor_info p {
+font-size: 16px;
+}
+
+#special_offer .product_info .offer_cnt {
+  padding: 0 24px;
+}
+
+#special_offer .product_info .offer_cnt .paragraph {
+
+  font-size: 14px;
+  line-height: 23px;
+  }
+  .informationShop .socialicon {
+    padding-left: 100px;
+}
+#payment .payment_ship ul li {
+
+  width: 40%;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #banner .banner_slider {
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  #banner .banner_slider .row {
+    height: 500px;
+  }
+  #banner .banner_slider .banner_cnt h1 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .button {
+    padding: 15px 20px;
+    font-size: 16px;
+  }
+  #banner .slick-dots {
+    left: 28px;
+  }
+  .quantity .nice-number{
+    margin-bottom: 15px;
+  }
+  .buttondiv .button {
+    width: 172px;
+    height: 50px;
+    margin-left: 33px;
+}
+.icons ul{
+  margin-left: -10px;
+}
+.informationShop .socialicon {
+  padding-left: 11px;
+}
+.aboutFooter .formInfo form {
+
+  margin-left: -189px;
+}
+
+}
+@media (min-width: 320px) and (max-width: 767px) {
+
+  #banner .banner_slider {
+    height: 300px;
+  }
+  #banner .banner_slider .row {
+    height: 300px;
+  }
+  #banner .banner_cnt {
+    width: 100%;
+  }
+  #banner .banner_slider .banner_cnt h1 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  #banner .banner_slider .button {
+ 
+  }
+
+  #banner .banner_slider .banner_cnt p 
+  {
+  
+    text-align: justify;
+  }
+  #banner .slick-dots {
+    bottom: 0;
+  }
+  #banner .slick-dots button {
+    transform: scale(0.5);
+  }
+  #aetor_shop .aetor_info h1 {
+   
+    font-size: 31px;
+    line-height: 32px;
+   
+}
+  #flash_sale h1 {
+    font-size: 25px;
+
+}
+.wrapper_slider .wrapper_container .wrapper_card p {
+
+  text-align: justify;
+}
+.wrapper_slider .wrapper_container .wrapper_card a {
+ margin-bottom: 40px;
+}
+#special_offer .product_info .offer_cnt .heading 
+{
+  font-size: 28px;
+}
+#special_offer .product_info .offer_cnt h1 {
+  
+  font-size: 18px;
+  line-height: 33px;
+ 
+}
+#special_offer .product_info .offer_cnt .paragraph 
+{
+  font-size: 12px;
+  line-height: 22px;
+  text-align: justify;
+}
+#special_offer .product_info .offer_cnt p {
+
+  text-align: justify;
+}
+
+#customer .customer_cnt {
+  padding-top: 159px;
+ 
+}
+#latest_news {
+  padding: 30px 50px;
+}
+.news_card .news_info .date {
+  
+   padding-left: 0;
+}
+
+#latest_news .news_div .news_card .overlay a {
+  top: 62px;
+  left: 68px;
+  font-size: 35px;
+}
+  footer .social_link ul {
+    text-align: center;
+  }
+  footer .logo {
+    margin: 30px 0;
+  }
+  footer .card img {
+    margin: auto;
+  }
+  .wrapper_card {
+    padding: 10px;
+}
+  #flash_sale h1 {
+    font-size: 25px;
+
+    text-align: left;
+  }
+  footer .lastone .heading {
+
+     padding-bottom: 6px; 
+}
+#last_item .last p {
+
+  line-height: 22px;
+  
+}
+  #banner_two .banner_cnt {
+    width: 100%;
+    margin: 0;
+    
+}
+
+  .aboutFooter .formInfo {
+  /* width: 50%; */
+  padding: 0px 15px;
+}
+.form .car #size{
+
+}
+.quantity_div .quantity .quantity_field
+{
+  margin-bottom: 15px;
+}
+
+.quantity_div .buttondiv .button{
+  padding: 19px 10px;
+}
+.informationShop .socialicon {
+  padding-left: 0;
+  margin-left: 12px;
+}
+
+#about .about_cnt h1 {
+  font-size: 25px;
+  line-height: 42px;
+  }
+}
